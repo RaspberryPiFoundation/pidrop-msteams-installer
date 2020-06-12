@@ -1,1 +1,1 @@
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1GeAWaaFsurLT1uLobSTQy4qXi1iJVkOM' -O /usr/share/applications/chromium-browser-msteams.desktop
+wget https://raw.githubusercontent.com/RaspberryPiFoundation/pidrop-msteams-installer/master/chromium-browser-msteams.desktop -O /usr/share/applications/chromium-browser-msteams.desktop
