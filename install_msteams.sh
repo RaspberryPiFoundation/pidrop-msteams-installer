@@ -1,4 +1,3 @@
-echo "***********************************************************************\n"
 read -r -p "Install Chromium browser for MS Teams? (y/n)" response < /dev/tty
 if [[ $response =~ ^[Yy]$ ]]
 then
