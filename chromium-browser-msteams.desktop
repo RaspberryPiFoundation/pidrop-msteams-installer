@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Chromium for MS Teams
+Name=Chromium Web Browser
 Name[ast]=Restolador web Chromium
 Name[bg]=Уеб четец Chromium
 Name[bn]=ক্রোমিয়াম ওয়েব ব্রাউজার
@@ -167,7 +167,7 @@ Comment[vi]=Truy cập Internet
 Comment[zh_CN]=访问互联网
 Comment[zh_HK]=連線到網際網路
 Comment[zh_TW]=連線到網際網路
-Exec=chromium-browser --app="https://teams.microsoft.com/_#/" --user-agent="Mozilla/5.0 (X11; CrOS x86_64 12871.34.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044 .42 Safari/537.36"
+Exec=chromium-browser "https://teams.microsoft.com/_#/" --user-agent="Mozilla/5.0 (X11; CrOS x86_64 12871.34.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044 .42 Safari/537.36"
 
 Terminal=false
 X-MultipleArgs=false
