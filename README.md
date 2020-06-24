@@ -2,6 +2,6 @@
 
 Install with
 
-`bash
+`
 curl rpf.io/msteams | bash
 `
