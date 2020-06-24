@@ -3,5 +3,5 @@
 Install with
 
 `
-curl rpf.io/msteams | bash
+curl -sL http://rpf.io/msteams | bash
 `
